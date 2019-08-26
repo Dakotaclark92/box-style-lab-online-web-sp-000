@@ -39,6 +39,14 @@ h4.amiable {
   );
 }
 
+h4.amiable:hover {
+  background: linear-gradient(
+    to right,
+    #FFF,
+    #000
+  );
+}
+
 .indifferent {
   background-color: #dddd22;
 }
