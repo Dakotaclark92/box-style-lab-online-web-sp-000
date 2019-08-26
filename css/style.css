@@ -71,6 +71,22 @@ h4.indifferent:hover {
   background-color: #dd4444;
 }
 
+h4.dubious {
+  background: linear-gradient(
+  to right,
+    #FFF,
+    #000
+  );
+}
+
+h4.dubious:hover {
+  background: linear-gradient(
+  to right,
+    #FFF,
+    #000
+  );
+}
+
 .column {
   width: 30%;
   display: inline-block;
